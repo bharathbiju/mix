@@ -1,0 +1,515 @@
+/*
+ Theme Name:   Twenty Twenty Child
+ Theme URI:    https://diviextended.com/
+ Description:  A child theme of Twenty Twenty WordPress theme.
+ Author:       Elicus Technologies
+ Author URI:   https://elicus.com
+ Template:     twentytwenty
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+*/
+
+/*@import url("../twentytwenty/style.css");*/
+
+
+.dropdown-item
+{
+    cursor: pointer;
+}
+
+
+.text-align-left {
+    text-align: left;
+}
+
+.list_type01 ul li {
+    list-style: disc;
+}
+
+.stabilier_bg
+{
+	width: 100%;
+	float: left;
+}
+.stabilier_area
+{
+	width: 1500px;
+	margin: auto;
+}
+.stabilizers_content01
+{
+	width: 100%;
+	float: left;
+	margin-bottom: 70px;
+}
+.air_bg
+{
+	width: 100%;
+	float: left;
+}
+.air_banner1
+{
+	width: 100%;
+	float: left;
+}
+.air_banner1 img
+{
+
+	width: 100%;
+	height: auto;
+}
+.con_pro_air
+{
+	float: left;
+	width: 100%;
+	margin-top: 77px;
+}
+.con_area
+{
+	width: 50%;
+	float: left;
+}
+.con_text_01
+{
+	width: 50%;
+	float: left;
+}
+.pro_content1
+{
+	width: 100%;
+	float: left;
+	height: auto
+}
+.powerbox1_01
+{
+	width: 600px;
+	float: right;
+	margin-right: 60px;
+}
+.con_air_title
+{
+	font-family: fantasy;
+    float: left;
+    text-transform: uppercase;
+    font-size: 30px;
+    color: #434242;
+	width: 100%;
+	margin-bottom: 15px;
+}
+.pro_india
+{
+	width: 100%;
+	float: left;
+	margin-top: 30px;
+}
+.pro_textpart1
+{
+	width: 50%;
+	float: left;
+	margin-top: 5px;
+}
+.pro_textpart2
+{
+	width: 50%;
+	float: left;
+	margin-top: -14px;
+}
+.text_stabi
+{
+    width: 100%;
+    float: left;
+    text-align: justify;
+    font-family: auto;
+}
+.feture_title
+{
+	border-bottom: 1px solid #373636;
+    float: left;
+    width: 91%;
+    font-weight: 600;
+	margin-left: 25px;
+}
+.list_type01
+{
+	width: 100%;
+	float: left;
+}
+.table_product007
+{
+	width: 100%;
+	float: left;
+}
+.main_tablep
+{
+	float: left;
+	width: 99%;
+	border-collapse: collapse;
+	margin-top: 50px;
+}
+tr.psr_no007 {
+    float: left;
+    width: 99%;
+	background-color: #998b7c;
+    color: #fff;
+	border: 1px solid #0f0f0f;
+}
+tr.psr_no008 {
+    float: left;
+	width: 99%;
+	border: 1px solid #0f0f0f;
+    border-top: none;
+}
+tr.psr_no009 {
+    float: left;
+   	width: 99%;
+	border: 1px solid #0f0f0f;
+    border-top: none;
+}
+th.psr_no1,td.psr_no1 {
+    width: 100px;
+    padding: 8px 0px;
+	font-family: monospace;
+	border-right: 1px solid #0f0f0f;
+	text-align: center;
+	font-size: 15px;
+
+}
+th.psr_no2,td.psr_no2 {
+    width: 120px;
+    padding: 8px 0px;
+	font-family: monospace;
+	border-right: 1px solid #0f0f0f;
+	text-align: center;
+	font-size: 15px;
+}
+th.psr_no3,td.psr_no3 {
+    width: 120px;
+    padding: 8px 0px;
+	font-family: monospace;
+	border-right: 1px solid #0f0f0f;
+	text-align: center;
+	font-size: 15px;
+}
+th.psr_no4,td.psr_no4 {
+    width: 140px;
+    padding: 8px 0px;
+	font-family: monospace;
+	border-right: 1px solid #0f0f0f;
+	text-align: center;
+	font-size: 15px;
+}
+th.psr_no5,td.psr_no5 {
+    width: 100px;
+    padding: 8px 0px;
+	font-family: monospace;
+	text-align: center;
+	font-size: 15px;
+}
+.pro_india1
+{
+	width: 100%;
+	float: left;
+}
+
+th.mline_no1,td.mline_no1 {
+    width: 130px;
+    padding: 8px 0px;
+	font-family: monospace;
+	border-right: 1px solid #0f0f0f;
+	text-align: center;
+	font-size: 15px;
+}
+th.mline_no2,td.mline_no2 {
+    width: 150px;
+    padding: 8px 0px;
+	font-family: monospace;
+	border-right: 1px solid #0f0f0f;
+	text-align: center;
+	font-size: 15px;
+}
+th.mline_no3,td.mline_no3 {
+    width: 150px;
+    padding: 8px 0px;
+	font-family: monospace;
+	border-right: 1px solid #0f0f0f;
+	text-align: center;
+	font-size: 15px;
+}
+th.mline_no4,td.mline_no4 {
+    width: 150px;
+    padding: 8px 0px;
+	font-family: monospace;
+	text-align: center;
+	font-size: 15px;
+}
+.mline_no007
+{
+    float: left;
+    width: 99%;
+    background-color: #a8571f;
+    color: #fff;
+    border: 1px solid #0f0f0f;
+}
+.powerbox1_02
+{
+	width: 500px;
+	float: right;
+	margin-right: 160px;
+}
+tr.tpextra_no007 {
+    float: left;
+    width: 99%;
+    background-color: #aa2421;
+    color: #fff;
+    border: 1px solid #0f0f0f;
+}
+.text_stabi01
+{
+    width: 100%;
+    float: left;
+    text-align: justify;
+    font-family: auto;
+	font-size: 15px;
+}
+.tcombo_no007
+{
+    float: left;
+    width: 99%;
+    background-color: #396b30;
+    color: #fff;
+    border: 1px solid #0f0f0f;
+}
+th.psr_no03, td.psr_no03 {
+    width: 100px;
+    padding: 8px 0px;
+    font-family: monospace;
+    border-right: 1px solid #0f0f0f;
+    text-align: center;
+    font-size: 15px;
+}
+th.psr_no03, td.psr_no03 {
+    width: 100px;
+    padding: 8px 0px;
+    font-family: monospace;
+    border-right: 1px solid #0f0f0f;
+    text-align: center;
+    font-size: 15px;
+}
+th.psr_no04, td.psr_no04 {
+    width: 160px;
+    padding: 8px 0px;
+    font-family: monospace;
+    border-right: 1px solid #0f0f0f;
+    text-align: center;
+    font-size: 15px;
+}
+.voltage_bg01
+{
+	width: 100%;
+	float: left;
+	background-image: url("images/voltage.png");
+	min-height: 1000px;
+	background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.voltage_area
+{
+	float: right;
+	width: 50%;
+}
+.voltage_logo
+{
+	float: right;
+	margin: 50px;
+	margin-top: 25px;
+}
+.voltage_text
+{
+    width: 81%;
+    float: right;
+    margin-right: 50px;
+	margin-top: 50px;
+}
+.voltage_title01
+{
+	width: 100%;
+	float: left;
+	font-family: fantasy;
+    text-transform: uppercase;
+    font-size: 40px;
+    color: #2b2a29;
+	letter-spacing: 3px;
+}
+.vol_text_stab
+{
+	width: 100%;
+	text-align: justify;
+	font-family: monospace;
+	line-height: 22px;
+    margin-top: 25px;
+    float: left;
+    font-size: 14px;
+}
+.can_trust
+{
+	float: left;
+    width: 100%;
+    color: #243a70;
+    margin-top: 100px;
+    font-size: 35px;
+    font-family: sans-serif;
+    font-style: italic;
+    font-weight: 700;
+}
+.get_inquiry_bt {
+    float: left;
+    width: 100%;
+    text-align: center;
+}
+.get_inquiry_bt a
+{
+	text-decoration: none;
+    background-color: #243a70;
+    color: #fff;
+    padding: 10px 16px;
+    float: left;
+    font-family: monospace;
+    font-size: 15px;
+    border-radius: 3px;
+}
+.bt_cen_get {
+    width: 123px;
+    margin: auto;
+}
+.air_product1 {
+    float: left;
+	margin-left: 20px;
+}
+hr.divided_al {
+    padding: 0px;
+    margin: 0px;
+    height: 5px;
+    background-color: #243a70;
+	    float: left;
+    width: 100%;
+}
+
+
+@media only screen and (min-width: 0px) and (max-width: 1500px){
+	.stabilier_area
+	{
+		width: 100%;
+	}
+}
+
+@media only screen and (min-width: 0px) and (max-width: 1000px){
+
+    .con_area,.con_text_01
+    {
+        width: 100%;
+        float: left;
+    }
+    .get_inquiry_bt
+    {
+        margin-bottom: 40px;
+    }
+    .voltage_bg01
+    {
+
+        min-height: auto;
+    }
+    .voltage_area {
+        float: left;
+        width: 100%;
+        /*background-image: url(images/voltage001.png);*/
+        background-repeat: repeat-y;
+        background-size: contain;
+    }
+    .voltage_text {
+
+        float: none;
+        margin-right: 0px;
+        margin: auto;
+        margin-top: 10px;
+    }
+    .voltage_title01
+    {
+        font-size: 17px;
+    }
+    .can_trust
+    {
+        font-size: 24px;
+    }
+    .can_trust
+    {
+        margin-top: 10px;
+    }
+    .vol_text_stab
+    {
+        margin-top: 7px;
+    }
+    .powerbox1_01 {
+        width: 600px;
+        float: none;
+        margin: auto;
+    }
+}
+@media only screen and (min-width: 0px) and (max-width: 600px){
+    .voltage_bg01 {
+        background-repeat: no-repeat;
+        background-size: 100%;
+        background-position: bottom;
+        background: #0c1b4e  url(images/voltage.png) repeat-y 0 -5px scroll;
+    }
+    .powerbox1_01 {
+        width: 93%;
+    }
+    th.psr_no1, td.psr_no1 {
+        width: 10%;
+        font-size: 11px;
+    }
+    th.psr_no2, td.psr_no2 {
+        width: 19%;
+        font-size: 11px;
+    }
+    th.psr_no3, td.psr_no3{
+        width: 21%;
+        font-size: 11px;
+    }
+    th.psr_no4, td.psr_no4{
+        width: 29%;
+        font-size: 11px;
+    }
+    th.psr_no03, td.psr_no03
+    {
+        width: 21%;
+        font-size: 11px;
+    }
+    th.psr_no04, td.psr_no04 {
+        width: 26%;
+        font-size: 11px;
+    }
+    th.psr_no5, td.psr_no5{
+        font-size: 11px;
+    }
+    .get_inquiry_bt {
+        margin-top: 15px;
+    }
+    th.mline_no1, td.mline_no1 {
+        width: 16%;
+    }
+    th.mline_no2, td.mline_no2 {
+        width: 25%;
+    }
+    th.mline_no3, td.mline_no3 {
+        width: 17%;
+    }
+
+}
+
+
+.dropdown:hover > .dropdown-menu{
+    display: block !important;
+    }
