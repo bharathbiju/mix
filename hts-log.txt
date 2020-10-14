@@ -1,0 +1,14 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 14 Oct 2020 00:23:48 at https://earthing.truepower.co.in/bond-copper-electrodes/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://earthing.truepower.co.in/bond-copper-electrodes/ -O1 "G:\Freelance\learn more" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+00:24:11	Error: 	"Connect Error" (-4) after 2 retries at link https://earthing.truepower.co.in/robots.txt (from primary/primary)
+00:24:33	Error: 	"Not Found" (404) at link https://earthing.truepower.co.in/wp-content/themes/twenty-twenty-child/css/owl.video.play.png (from https://earthing.truepower.co.in/wp-content/themes/twenty-twenty-child/css/owl.carousel.min.css?ver=1.5)
+00:24:33	Error: 	"Not Found" (404) at link https://earthing.truepower.co.in/wp-content/plugins/easy-media-gallery/css/images/badges/Blue.png (from https://earthing.truepower.co.in/wp-content/plugins/easy-media-gallery/css/frontend.css?ver=5.4.2)
+
+HTTrack Website Copier/3.49-2 mirror complete in 45 seconds : 69 links scanned, 66 files written (13010687 bytes overall) [12898831 bytes received at 286640 bytes/sec], 347328 bytes transferred using HTTP compression in 7 files, ratio 20%, 5.3 requests per connection
+(3 errors, 0 warnings, 0 messages)
