@@ -5607,6 +5607,227 @@
 		color: #b6bbcc !important;
 	}
 
+
+
+
+
+
+/*
+@import url('//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css');
+
+#social {
+  margin: 20px 10px;
+  text-align: center;
+}
+
+.smGlobalBtn { 
+    display: inline-block;
+    position: relative;
+    cursor: pointer;
+    width: 50px;
+    height: 50px;
+    border:2px solid #ddd; 
+    box-shadow: 0 3px 3px #999;
+    padding: 0px;
+    text-decoration: none;
+    text-align: center;
+    color: #fff;
+    font-size: 25px;
+    font-weight: normal;
+    line-height: 2em;
+    border-radius: 27px;
+    -moz-border-radius:27px;
+    -webkit-border-radius:27px;
+}
+
+
+.facebookBtn{
+    background: #4060A5;
+}
+
+.facebookBtn:before{ 
+    font-family: "FontAwesome";
+    content: "\f09a"; 
+}
+
+.facebookBtn:hover{
+    color: #4060A5;
+    background: #fff;
+    border-color: #4060A5; 
+}
+
+
+.twitterBtn{
+    background: #00ABE3;
+}
+
+.twitterBtn:before{
+      font-family: "FontAwesome";
+      content: "\f099"; 
+}
+
+.twitterBtn:hover{
+      color: #00ABE3;
+      background: #fff;
+      border-color: #00ABE3;
+}
+
+
+.googleplusBtn{
+    background: #e64522;
+}
+
+.googleplusBtn:before{
+      font-family: "FontAwesome";
+      content: "\f0d5"; 
+}
+
+.googleplusBtn:hover{
+      color: #e64522;
+      background: #fff;
+      border-color: #e64522;
+}
+
+
+.linkedinBtn{
+    background: #0094BC;
+}
+
+.linkedinBtn:before{
+      font-family: "FontAwesome";
+      content: "\f0e1"; 
+
+.linkedinBtn:hover{
+      color: #0094BC;
+      background: #fff;
+      border-color: #0094BC;
+}
+
+.pinterestBtn{
+    background: #cb2027;
+}
+
+.pinterestBtn:before{
+      font-family: "FontAwesome";
+      content: "\f0d2"; 
+
+.pinterestBtn:hover{
+      color: #cb2027;
+      background: #fff;
+      border-color: #cb2027;
+}
+
+
+.tumblrBtn{
+    background: #3a5876;
+}
+
+.tumblrBtn:before{
+      font-family: "FontAwesome";
+      content: "\f173"; 
+}
+
+.tumblrBtn:hover{
+      color: #3a5876;
+      background: #fff;
+      border-color: #3a5876;
+}
+
+
+.rssBtn{
+    background: #e88845;
+}
+
+.rssBtn:before{
+      font-family: "FontAwesome";
+      content: "\f09e"; 
+}
+
+.rssBtn:hover{
+      color: #e88845;
+      background: #fff;
+      border-color: #e88845;
+}
+*/
+
+
+
+
+body{
+    background-color: aliceblue;
+    height: 800px;
+}
+.text-center{
+    text-align: center;
+    font-weight:normal;
+}
+.social_media_div{
+  position:fixed;
+    left: 5px;
+    top: 120px;
+}
+.social_media_div li{
+    list-style: none;
+    margin: 15px 0px;
+}
+.social_media_div li a i{
+    text-decoration: none;
+    padding: 14px 14px;
+    color: #fff;
+    font-size: 16px;
+    border-radius: 30px;
+    font-weight: bold;
+    -webkit-transition: all 0.4s;
+    -moz-transition: all 0.4s;
+    -o-transition: all 0.4s;
+    -ms-transition: all 0.4s;
+    transition: all 0.4s;
+}
+
+.facebook-icon{
+    background-color: #5DADE2;
+    border: 1px solid #5DADE2;
+    box-shadow: 0px 2px 4px 4px #ccd9e2;
+}
+
+/*.googleplus-icon{
+    background-color: #EC7063;
+    border: 1px solid #EC7063;
+    box-shadow: 0px 2px 4px 4px #e2d1cf;
+    font-size: 16px !important;
+    padding: 18px 17px !important;
+}
+*/
+.linkedin-icon{
+    background-color: #82c5f3;
+    border: 1px solid #82c5f3;
+    box-shadow: 0px 2px 4px 4px #c9d7e0;
+}
+
+.twitter-icon{
+    background-color: #AED6F1;
+    border: 1px solid #AED6F1;
+    box-shadow: 0px 2px 4px 4px #ccd9e2;
+}
+
+.instagram-icon{
+    background-color: #A569BD;
+    border: 1px solid #A569BD;
+    box-shadow: 0px 2px 4px 4px #ddcfe2;
+}
+
+.social_media_div li a:hover i{
+    -moz-transform: rotate(360deg);
+    -webkit-transform: rotate(360deg);
+    -ms--transform: rotate(360deg);
+    transform: rotate(360deg);
+    -webkit-transition: all 0.4s;
+    -moz-transition: all 0.4s;
+    -o-transition: all 0.4s;
+    -ms-transition: all 0.4s;
+    transition: all 0.4s;
+}
+
 /* margin and padding
 -------------------------------------------------------------- */
 	.desk-mg-top-280px {
