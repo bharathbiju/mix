@@ -5764,7 +5764,7 @@ body{
 .social_media_div{
   position:fixed;
     left: 5px;
-    top: 120px;
+    top: 140px;
 }
 .social_media_div li{
     list-style: none;
@@ -5785,8 +5785,8 @@ body{
 }
 
 .facebook-icon{
-    background-color: #5DADE2;
-    border: 1px solid #5DADE2;
+    background-color: #3B5998;
+    /*border: 1px solid #5DADE2;*/
     box-shadow: 0px 2px 4px 4px #ccd9e2;
 }
 
@@ -5800,19 +5800,28 @@ body{
 */
 .linkedin-icon{
     background-color: #82c5f3;
-    border: 1px solid #82c5f3;
+    /*border: 1px solid #82c5f3;*/
     box-shadow: 0px 2px 4px 4px #c9d7e0;
 }
 
 .twitter-icon{
-    background-color: #AED6F1;
-    border: 1px solid #AED6F1;
+    background-color: #FF0000;
+    /*border: 1px solid #AED6F1;*/
     box-shadow: 0px 2px 4px 4px #ccd9e2;
 }
 
 .instagram-icon{
-    background-color: #A569BD;
-    border: 1px solid #A569BD;
+    background-color: #DD2A7B;
+    /*border: 1px solid #F58529;*/
+    box-shadow: 0px 2px 4px 4px #ddcfe2;
+}
+
+.whatsapp-icon{
+	position:fixed;
+    right: 5px;
+    top: 200px;
+    background-color: #25D366;
+   /* border: 1px solid #F58529;*/
     box-shadow: 0px 2px 4px 4px #ddcfe2;
 }
 
