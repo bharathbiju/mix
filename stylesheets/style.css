@@ -5818,8 +5818,8 @@ body{
 
 .whatsapp-icon{
 	position:fixed;
-    right: 5px;
-    top: 200px;
+    right: 20px;
+    bottom: 100px;
     background-color: #25D366;
    /* border: 1px solid #F58529;*/
     box-shadow: 0px 2px 4px 4px #ddcfe2;
