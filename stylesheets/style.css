@@ -5756,15 +5756,18 @@
 body{
     background-color: aliceblue;
     height: 800px;
+
 }
 .text-center{
     text-align: center;
     font-weight:normal;
+
 }
 .social_media_div{
   position:fixed;
     left: 5px;
     top: 140px;
+    z-index: 9999;
 }
 .social_media_div li{
     list-style: none;
@@ -5817,6 +5820,7 @@ body{
 }
 
 .whatsapp-icon{
+
 	position:fixed;
     right: 20px;
     bottom: 100px;
