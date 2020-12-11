@@ -77,7 +77,7 @@
 
 			$mail = new PHPMailer;
 
-			// $mail->SMTPDebug = 4;                               // Enable verbose debug output
+			$mail->SMTPDebug = 4;                               // Enable verbose debug output
 
 			$mail->isSMTP();                                      // Set mailer to use SMTP
 			$mail->Host = 'smtp.gmail.com';  // Specify main and backup SMTP servers
@@ -92,9 +92,9 @@
 
 			$mail->addReplyTo(EMAIL);
 			// print_r($_FILES['file']); exit;
-			for ($i=0; $i < count($_FILES['file']['tmp_name']) ; $i++) { 
-				$mail->addAttachment($_FILES['file']['tmp_name'][$i], $_FILES['file']['name'][$i]);    // Optional name
-			}
+			// for ($i=0; $i < count($_FILES['file']['tmp_name']) ; $i++) { 
+			// 	$mail->addAttachment($_FILES['file']['tmp_name'][$i], $_FILES['file']['name'][$i]);    // Optional name
+			// }
 			$mail->isHTML(true);                                  // Set email format to HTML
 
 			$mail->Subject = $_POST['subject'];
